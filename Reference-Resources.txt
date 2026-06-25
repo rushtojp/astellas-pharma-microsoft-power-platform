@@ -1,3 +1,7 @@
 Copilot studio kit
 
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-overview
+
+github copilot kit download link
+
+https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/releases/tag/CopilotStudioAccelerator-June2026
